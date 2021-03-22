@@ -1,0 +1,14 @@
+Time
+-hour: int
+-minute: int
+-second: int
+
++Time()
++Time(totalMilliSecond: long)
++Time(hour: int, minute: int, second: int)
+
++getHour()
++getMinute()
++getSecond()
+
++setTime

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chapter_13.iml" filepath="$PROJECT_DIR$/.idea/Chapter_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.1/Exercise13.1.iml" filepath="$PROJECT_DIR$/Exercise13.1/Exercise13.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.10/Exercise13.10.iml" filepath="$PROJECT_DIR$/Exercise13.10/Exercise13.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.11/Exercise13.11.iml" filepath="$PROJECT_DIR$/Exercise13.11/Exercise13.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.2/Exercise13.2.iml" filepath="$PROJECT_DIR$/Exercise13.2/Exercise13.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.3/Exercise13.3.iml" filepath="$PROJECT_DIR$/Exercise13.3/Exercise13.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.4/Exercise13.4.iml" filepath="$PROJECT_DIR$/Exercise13.4/Exercise13.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.5/Exercise13.5.iml" filepath="$PROJECT_DIR$/Exercise13.5/Exercise13.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.6/Exercise13.6.iml" filepath="$PROJECT_DIR$/Exercise13.6/Exercise13.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.7/Exercise13.7.iml" filepath="$PROJECT_DIR$/Exercise13.7/Exercise13.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.8/Exercise13.8.iml" filepath="$PROJECT_DIR$/Exercise13.8/Exercise13.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13.9/Exercise13.9.iml" filepath="$PROJECT_DIR$/Exercise13.9/Exercise13.9.iml" />
+    </modules>
+  </component>
+</project>

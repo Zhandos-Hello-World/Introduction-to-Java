@@ -1,0 +1,12 @@
+RegularPolygon
+-n: int
+-side: double
+-x: double
+-y: double
+
+-------------
++RegularPolygon()
++RegularPolygon(n: int, side: double)
++RegularPolygon(n: int, side: double, x: double, y: double )
++getPerimeter()
++getArea()
