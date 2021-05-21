@@ -20,23 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed878b89-7819-4844-a8f2-a67740f94340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise20.1/Exercise20.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.10/Exercise19.10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.10/Exercise19.10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.11/Exercise19.11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.11/Exercise19.11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.3/Exercise19.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.3/Exercise19.3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.4/Exercise19.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.4/Exercise19.4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.5/Exercise19.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.5/Exercise19.5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.6/Exercise19.6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.6/Exercise19.6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.7/Exercise19.7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.7/Exercise19.7.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.8/Exercise19.8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.8/Exercise19.8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter_19/Exercise19.9/Exercise19.9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_19/Exercise19.9/Exercise19.9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise20.12/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise20.12/src/com/company/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise20.13/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise20.13/src/com/company/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.12/Exercise20.12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise20.12/Exercise20.12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.12/out/production/Exercise20.12/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise20.12/out/production/Exercise20.12/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.12/out/production/Exercise20.12/com/company/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.12/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise20.12/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.13/Exercise20.13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise20.13/Exercise20.13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise20.13/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise20.13/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise20.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise20.4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -90,6 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1617395381979</updated>
       <workItem from="1617395383106" duration="28000" />
+      <workItem from="1619202144444" duration="55000" />
+      <workItem from="1619202207151" duration="39000" />
     </task>
     <servers />
   </component>
@@ -106,12 +105,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="127" key="FileChooserDialogImpl" timestamp="1617395409478">
+    <state x="188" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619202183413">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="465" y="127" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1617395409478" />
+    <state x="188" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1474.864@0.0.1474.864" timestamp="1619202183413" />
+    <state x="465" y="127" key="FileChooserDialogImpl" timestamp="1619202245195">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="465" y="127" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1619202245195" />
     <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1617395410741">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
@@ -128,5 +132,9 @@
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state width="1419" height="208" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1617395410741" />
+    <state x="90" y="0" key="SettingsEditor" timestamp="1619202188180">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="90" y="0" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1619202188180" />
   </component>
 </project>

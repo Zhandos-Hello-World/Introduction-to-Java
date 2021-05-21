@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36e9b046-4fe3-407c-9688-ffc7baf5c2e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.14/Exercise14.14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.15/Exercise14.15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.16/Exercise14.16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.17/Exercise14.17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.18/Exercise14.18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.2/Exercise14.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.1/Exercise17.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/Exercise17.10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/Exercise17.12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/src/Source0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/src/Source1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.12/src/Target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise17.13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Exercise17.13/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/Exercise17.14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/SourceFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/TargetFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.2/Exercise17.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.2/Exercise17_02.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.3/Exercise17.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.3/Exercise17_3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/Exercise17.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/src/Welcome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.4/src/Welcome.utf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.5/Exercise17.5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.5/Exercise17_05.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/Exercise17.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/Exercise17_06.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/Exercise17.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/Exercise17_07.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/Exercise17.8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/Exercise17_08.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/Exercise17.9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/Exercise17_9.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise17.9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_18/Exercise18.1/Exercise18.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_20/.idea/Chapter_20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/src/com/company/map1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/src/com/company/map.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/Execrcise14.14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Execrcise14.14/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/Exercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/out/production/Exercise/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/out/production/Exercise/com/company/MyPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/out/production/Exercise/com/company/MyShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/out/production/Exercise/com/company/points1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/out/production/Exercise/com/company/points2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/src/com/company/points1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise/src/com/company/points2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.1/Exercise14.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.1/Exercise14.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/Exercise14.10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.10/Exercise14.10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.11/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.11/Exercise14.11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.11/Exercise14.11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.12/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.12/Exercise14.12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.12/Exercise14.12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.13/Exercise14.13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.13/Exercise14.13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.3/Exercise14.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.3/Exercise14.3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.4/Exercise14.4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.4/Exercise14.4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.5/Exercise14.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.5/Exercise14.5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.6/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.6/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.6/Exercise14.6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.6/Exercise14.6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.7/Exercise14.7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.7/Exercise14.7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.8/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.8/Exercise14.8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.8/Exercise14.8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercise14.9/Exercise14.9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_14/Exercise14.9/Exercise14.9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/Exercsie14.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/out/production/Exercsie14.2/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/out/production/Exercsie14.2/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_14/Exercsie14.2/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/Exercise20.12.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/Exercise20.12.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/out/production/Exercise20.12/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/out/production/Exercise20.12/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/out/production/Exercise20.12/com/company/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.12/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/Exercise20.13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/Exercise20.13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.13/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/out/production/Exercise20.4/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/out/production/Exercise20.4/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/out/production/Exercise20.4/com/company/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter_20/Exercise20.4/out/production/Exercise20.4/com/company/Point.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sebrPg3Y5VBxC7iRLQBzdAnQph" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Exercise17.13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e9b046-4fe3-407c-9688-ffc7baf5c2e7" name="Default Changelist" comment="" />
+      <created>1621236200069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621236200069</updated>
+      <workItem from="1621236202808" duration="3571000" />
+      <workItem from="1621249507111" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1621239802091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="89" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621239802091" />
+    <state width="1481" height="196" key="GridCell.Tab.0.bottom" timestamp="1621239803292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621239803292" />
+    <state width="1481" height="196" key="GridCell.Tab.0.center" timestamp="1621239803292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621239803292" />
+    <state width="1481" height="196" key="GridCell.Tab.0.left" timestamp="1621239803292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621239803292" />
+    <state width="1481" height="196" key="GridCell.Tab.0.right" timestamp="1621239803292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621239803292" />
+    <state x="36" y="0" key="new project wizard" timestamp="1621239802594">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="36" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621239802594" />
+  </component>
+</project>
